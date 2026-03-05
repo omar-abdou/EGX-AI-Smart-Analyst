@@ -1,0 +1,5 @@
+{
+  "name": "EGX AI Smart Analyst",
+  "description": "نظام تحليل وفلترة ذكي للبورصة المصرية، متصل بالبيانات الحية للسوق لتقديم تحليلات وفرص استثمارية.",
+  "requestFramePermissions": []
+}
